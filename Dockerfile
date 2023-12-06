@@ -8,4 +8,5 @@ RUN wget -q  https://api.github.com/repos/cli/cli/releases/latest \
     && rm -fr *
 
 ADD entrypoint.sh /entrypoint.sh
+RUN chmod +x /entrypoint.sh
 ENTRYPOINT [ "/entrypoint.sh" ]
