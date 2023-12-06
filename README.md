@@ -1,6 +1,7 @@
 # Action pull request another repository 
-This GitHub Action copies a folder from the current repository to a location in another repository and create a pull request
-This Action is a modified version of [paygoc6/action-pull-request-another-repo](https://github.com/paygoc6/action-pull-request-another-repo)
+This GitHub Action copies a folder from the current repository to a location in another repository and create a pull request.
+
+This Action is a modified version of [paygoc6/action-pull-request-another-repo](https://github.com/paygoc6/action-pull-request-another-repo).
 
 ## Example Workflow
     name: Push File
