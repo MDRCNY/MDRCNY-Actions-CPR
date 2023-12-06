@@ -1,4 +1,4 @@
-name: 'Pull Request another repository'
+name: 'MDRCNYC - Pull Request another repository'
 description: 'Used for pull request a copy of a folder to another repository'
 inputs:
   source_folder:
